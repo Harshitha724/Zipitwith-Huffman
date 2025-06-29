@@ -6,11 +6,11 @@ Built a simple file compressor and decompressor in C++ using Huffman Coding. It 
 A simple command-line project to compress and decompress text files using **Huffman Coding** — a lossless compression technique. You input a `.txt` file, it compresses it into a `.bin` file, and then decompresses it back.
 
 ## Features
--> Compresses and decompresses text files
--> Uses Huffman Tree with Priority Queue (Min Heap)
--> Shows original and compressed sizes + compression ratio
--> Command-line based, no GUI
--> Handles binary file I/O
+- Compresses and decompresses text files
+- Uses Huffman Tree with Priority Queue (Min Heap)
+- Shows original and compressed sizes + compression ratio
+- Command-line based, no GUI
+- Handles binary file I/O
 
 ## How to Run
 
