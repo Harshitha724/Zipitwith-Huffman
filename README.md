@@ -32,13 +32,14 @@ Compression Ratio: 32.5%
 ->decoded.txt will match input.txt
 
 ## Concepts used
--> Huffman Tree (Binary Tree)
--> Min Heap / Priority Queue
--> File Handling (Text and Binary)
--> Bit manipulation
--> C++ Classes & Modular Code
--> CLI-based tool
+- Huffman Tree (Binary Tree)
+- Min Heap / Priority Queue
+- File Handling (Text and Binary)
+- Bit manipulation
+- C++ Classes & Modular Code
+- CLI-based tool
 
-Base structure inspired by an open-source repo. I made modifications, added compression stats, learned deeply, and reshaped it to my own version.
+Base structure inspired by an open-source repo. 
+I made modifications, added compression stats, learned deeply, and reshaped it to my own version.
 
 
