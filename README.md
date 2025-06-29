@@ -29,7 +29,7 @@ g++ decode.cpp huffman.cpp -o decoder
 Original size: 200 bytes  
 Compressed size: 65 bytes  
 Compression Ratio: 32.5%
-->decoded.txt will match input.txt
+- decoded.txt will match input.txt
 
 ## Concepts used
 - Huffman Tree (Binary Tree)
@@ -39,7 +39,7 @@ Compression Ratio: 32.5%
 - C++ Classes & Modular Code
 - CLI-based tool
 
-Base structure inspired by an open-source repo. 
-I made modifications, added compression stats, learned deeply, and reshaped it to my own version.
+- Base structure inspired by an open-source repo. 
+- I made modifications, added compression stats, learned deeply, and reshaped it to my own version.
 
 
